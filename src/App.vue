@@ -75,7 +75,7 @@ export default {
   },
   methods: {
     getAddress() {
-      const url = "http://viacep.com.br/ws/" + this.cep + "/json/";
+      const url = "https://viacep.com.br/ws/" + this.cep + "/json/";
 
       axios
         .get(url)
