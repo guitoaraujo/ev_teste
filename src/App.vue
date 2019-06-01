@@ -2,7 +2,7 @@
   <div id="app">
     <div class="container">
       <nav class="navbar navbar-light bg-light">
-        <span class="navbar-brand mb-0 h1">Meus Endereços</span>
+        <span class="navbar-brand mb-0 h1">Meus Endereços - EV Teste</span>
       </nav>
       <div class="row">
         <div class="col-8">
